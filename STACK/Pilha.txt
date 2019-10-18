@@ -1,0 +1,8 @@
+###################### Pilha - Stack ##########################
+
+* Só é possível processar a informação pela ordem inversa à ordem de chegada. Last in First Out.
+
+* Numa pilha, o posicionamento para a colocação de um novo elemento, que se designa por STACK_Push, e o posicionamento 
+para a remoção de um elemento, que se designa por STACK_Pop, é o topo da pilha (top of the stack).
+
+* Funções: Create, Destroy, Push e Pop.
